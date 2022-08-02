@@ -84,11 +84,12 @@ nav{
     display: flex;
     align-items: center;
     margin-top: 60px;
+    justify-content: center;
 }
 
 .itens > a{
-    padding: 0px 35px;
-    font-size: 1.2em;
+    padding: 0px 25px;
+    font-size: 1.1em;
     text-decoration: none;
     color: white;
 }
